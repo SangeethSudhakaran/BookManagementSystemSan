@@ -1,0 +1,14 @@
+D:\Sangeeth\bin\Debug\net6.0\BookManagementSystemSan.exe
+D:\Sangeeth\bin\Debug\net6.0\BookManagementSystemSan.deps.json
+D:\Sangeeth\bin\Debug\net6.0\BookManagementSystemSan.runtimeconfig.json
+D:\Sangeeth\bin\Debug\net6.0\BookManagementSystemSan.dll
+D:\Sangeeth\bin\Debug\net6.0\BookManagementSystemSan.pdb
+D:\Sangeeth\obj\Debug\net6.0\BookManagementSystemSan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sangeeth\obj\Debug\net6.0\BookManagementSystemSan.AssemblyInfoInputs.cache
+D:\Sangeeth\obj\Debug\net6.0\BookManagementSystemSan.AssemblyInfo.cs
+D:\Sangeeth\obj\Debug\net6.0\BookManagementSystemSan.csproj.CoreCompileInputs.cache
+D:\Sangeeth\obj\Debug\net6.0\BookManagementSystemSan.dll
+D:\Sangeeth\obj\Debug\net6.0\refint\BookManagementSystemSan.dll
+D:\Sangeeth\obj\Debug\net6.0\BookManagementSystemSan.pdb
+D:\Sangeeth\obj\Debug\net6.0\BookManagementSystemSan.genruntimeconfig.cache
+D:\Sangeeth\obj\Debug\net6.0\ref\BookManagementSystemSan.dll
