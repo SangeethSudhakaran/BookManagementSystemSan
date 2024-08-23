@@ -1,0 +1,14 @@
+D:\Sangeeth\DoctorManagement\bin\Debug\net6.0\DoctorManagement.exe
+D:\Sangeeth\DoctorManagement\bin\Debug\net6.0\DoctorManagement.deps.json
+D:\Sangeeth\DoctorManagement\bin\Debug\net6.0\DoctorManagement.runtimeconfig.json
+D:\Sangeeth\DoctorManagement\bin\Debug\net6.0\DoctorManagement.dll
+D:\Sangeeth\DoctorManagement\bin\Debug\net6.0\DoctorManagement.pdb
+D:\Sangeeth\DoctorManagement\obj\Debug\net6.0\DoctorManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sangeeth\DoctorManagement\obj\Debug\net6.0\DoctorManagement.AssemblyInfoInputs.cache
+D:\Sangeeth\DoctorManagement\obj\Debug\net6.0\DoctorManagement.AssemblyInfo.cs
+D:\Sangeeth\DoctorManagement\obj\Debug\net6.0\DoctorManagement.csproj.CoreCompileInputs.cache
+D:\Sangeeth\DoctorManagement\obj\Debug\net6.0\DoctorManagement.dll
+D:\Sangeeth\DoctorManagement\obj\Debug\net6.0\refint\DoctorManagement.dll
+D:\Sangeeth\DoctorManagement\obj\Debug\net6.0\DoctorManagement.pdb
+D:\Sangeeth\DoctorManagement\obj\Debug\net6.0\DoctorManagement.genruntimeconfig.cache
+D:\Sangeeth\DoctorManagement\obj\Debug\net6.0\ref\DoctorManagement.dll
