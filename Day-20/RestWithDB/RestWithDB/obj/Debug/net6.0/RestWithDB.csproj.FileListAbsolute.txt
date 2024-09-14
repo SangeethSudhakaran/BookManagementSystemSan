@@ -1,0 +1,7 @@
+D:\Sangeeth\Day-20\RestWithDB\RestWithDB\obj\Debug\net6.0\RestWithDB.csproj.AssemblyReference.cache
+D:\Sangeeth\Day-20\RestWithDB\RestWithDB\obj\Debug\net6.0\RestWithDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sangeeth\Day-20\RestWithDB\RestWithDB\obj\Debug\net6.0\RestWithDB.AssemblyInfoInputs.cache
+D:\Sangeeth\Day-20\RestWithDB\RestWithDB\obj\Debug\net6.0\RestWithDB.AssemblyInfo.cs
+D:\Sangeeth\Day-20\RestWithDB\RestWithDB\obj\Debug\net6.0\RestWithDB.csproj.CoreCompileInputs.cache
+D:\Sangeeth\Day-20\RestWithDB\RestWithDB\obj\Debug\net6.0\RestWithDB.MvcApplicationPartsAssemblyInfo.cs
+D:\Sangeeth\Day-20\RestWithDB\RestWithDB\obj\Debug\net6.0\RestWithDB.MvcApplicationPartsAssemblyInfo.cache

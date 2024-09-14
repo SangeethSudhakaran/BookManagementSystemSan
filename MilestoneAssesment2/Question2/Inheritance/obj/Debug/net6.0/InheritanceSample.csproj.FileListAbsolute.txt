@@ -1,0 +1,14 @@
+C:\Users\SudhakaranSa\Desktop\MilestoneAssesment2\Question2\Inheritance\bin\Debug\net6.0\InheritanceSample.exe
+C:\Users\SudhakaranSa\Desktop\MilestoneAssesment2\Question2\Inheritance\bin\Debug\net6.0\InheritanceSample.deps.json
+C:\Users\SudhakaranSa\Desktop\MilestoneAssesment2\Question2\Inheritance\bin\Debug\net6.0\InheritanceSample.runtimeconfig.json
+C:\Users\SudhakaranSa\Desktop\MilestoneAssesment2\Question2\Inheritance\bin\Debug\net6.0\InheritanceSample.dll
+C:\Users\SudhakaranSa\Desktop\MilestoneAssesment2\Question2\Inheritance\bin\Debug\net6.0\InheritanceSample.pdb
+C:\Users\SudhakaranSa\Desktop\MilestoneAssesment2\Question2\Inheritance\obj\Debug\net6.0\InheritanceSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SudhakaranSa\Desktop\MilestoneAssesment2\Question2\Inheritance\obj\Debug\net6.0\InheritanceSample.AssemblyInfoInputs.cache
+C:\Users\SudhakaranSa\Desktop\MilestoneAssesment2\Question2\Inheritance\obj\Debug\net6.0\InheritanceSample.AssemblyInfo.cs
+C:\Users\SudhakaranSa\Desktop\MilestoneAssesment2\Question2\Inheritance\obj\Debug\net6.0\InheritanceSample.csproj.CoreCompileInputs.cache
+C:\Users\SudhakaranSa\Desktop\MilestoneAssesment2\Question2\Inheritance\obj\Debug\net6.0\InheritanceSample.dll
+C:\Users\SudhakaranSa\Desktop\MilestoneAssesment2\Question2\Inheritance\obj\Debug\net6.0\refint\InheritanceSample.dll
+C:\Users\SudhakaranSa\Desktop\MilestoneAssesment2\Question2\Inheritance\obj\Debug\net6.0\InheritanceSample.pdb
+C:\Users\SudhakaranSa\Desktop\MilestoneAssesment2\Question2\Inheritance\obj\Debug\net6.0\InheritanceSample.genruntimeconfig.cache
+C:\Users\SudhakaranSa\Desktop\MilestoneAssesment2\Question2\Inheritance\obj\Debug\net6.0\ref\InheritanceSample.dll
